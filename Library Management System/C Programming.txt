@@ -1,0 +1,10 @@
+Book Name: C Programming
+Stname: Mrittika Sengupta
+Id: 2012330042
+Author Name: Ritche
+
+
+Stname: Moriom Akter
+id: 2012330052
+Author Name: Greg
+
